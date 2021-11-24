@@ -12,8 +12,6 @@ Usage:
    --num_beams=100 \
    --num_workers=12 \
    --save_path="data/clevr_train_raw.json"
-
-Author: Satwik Kottur
 """
 
 

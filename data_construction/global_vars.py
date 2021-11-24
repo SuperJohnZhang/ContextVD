@@ -1,6 +1,4 @@
-"""Global variables (avoid as much as possible).
-
-Author: Satwik Kottur
+"""Adopted Utilities for CLEVR-Dialog dataset generation.
 """
 
 def initialize():

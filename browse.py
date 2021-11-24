@@ -4,7 +4,7 @@ import json
 import os
 import cv2
 
-GQA_Path = "/home/yifeng/Datasets/GQA/images/images/"
+GQA_Path = "/GQA/"
 filenames = os.listdir(GQA_Path)
 filenames.sort()
 for filename in filenames[0:1000]:

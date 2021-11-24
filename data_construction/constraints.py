@@ -1,6 +1,4 @@
 """Supporting script checks constraints for caption and question generation.
-
-Author: Satwik Kottur
 """
 
 import copy

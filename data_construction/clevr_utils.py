@@ -1,6 +1,4 @@
-"""Utilities for CLEVR-Dialog dataset generation.
-
-Author: Satwik Kottur
+"""Adopted Utilities for CLEVR-Dialog dataset generation.
 """
 
 import copy
