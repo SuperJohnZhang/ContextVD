@@ -2,7 +2,7 @@
 
 
 ### Images and Annotations
-Please download the images from GQA and CLEVR, for the annotations of GQA-VD and CLEVR-VD, Please click [here](https://drive.google.com/drive/folders/1Brwa9RBtuPfCkJ36l-LYEaZczoYimoJX?usp=sharing)
+Please download the images from GQA and CLEVR, for the annotations, Please click [here](https://drive.google.com/drive/folders/1Brwa9RBtuPfCkJ36l-LYEaZczoYimoJX?usp=sharing)
 
 ### Dataset Generation Code
 1. Download Glove pretrained word vectors
