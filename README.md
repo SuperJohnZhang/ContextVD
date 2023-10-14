@@ -2,7 +2,7 @@
 
 
 ### Images and Annotations
-Please download the images from GQA and CLEVR, for the annotations, Please generate with the following instructions.
+Please download the images from GQA and CLEVR, for the annotations, Please generate them with the following instructions.
 ### Dataset Generation Code
 1. Download Glove pretrained word vectors
 2. Download the Scene Graphs From CLEVR
@@ -18,6 +18,8 @@ python context.py --compound <compoundlist> --visual <preprocessed>
 ```
 python question_engine.py --context <contexts> --template <templateList>
 ```
+### GQA-VD Data Samples
+https://drive.google.com/file/d/1GR9NTGMQ7V_7tCayy2kMFNcoWsS-t-16/view?usp=drive_link
 
 ### Model Test on the Dataset
 To run our model on the CLEVR-VD and GQA-VD
